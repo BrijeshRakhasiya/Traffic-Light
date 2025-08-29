@@ -1,0 +1,5 @@
+train: ../data/yolo_dataset/train/images
+val: ../data/yolo_dataset/val/images
+
+nc: 4
+names: ['Red', 'Yellow', 'Green', 'Off']

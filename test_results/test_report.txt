@@ -1,0 +1,6 @@
+YOLOv8 Traffic Light Test Report
+============================================================
+Model: runs/detect/traffic_light_yolov83/weights/best.pt
+Test images folder: F:\Internship\Traffic Light\test_images
+Report generated: 2025-05-23 18:28:32.535813
+
